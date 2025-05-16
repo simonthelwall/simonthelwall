@@ -3,7 +3,7 @@
 <!--- - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 --->
-- 📫 You can probably reach me on my mastodon profile @ simonthelwall @ fediscience.org
+- 📫 You can probably reach me on bluesky @ simonthelwall . bsky.social
 
 <!---
 simonthelwall/simonthelwall is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
